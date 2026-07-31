@@ -39,7 +39,7 @@ import {
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "A Handmade Girlfriend's Day Scrapbook" },
+      { title: "For My Khushi" },
       {
         name: "description",
         content:
