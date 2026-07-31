@@ -1,11 +1,11 @@
 {
-  "version": 1,
-  "asset_id": "ec66aa88-73d1-4cb3-8c65-c3cdabf1bdde",
-  "project_id": "0f397182-61b3-4cf7-8962-89583f3715f7",
-  "url": "/__l5e/assets-v1/ec66aa88-73d1-4cb3-8c65-c3cdabf1bdde/aunty-momos.jpeg",
-  "r2_key": "a/v1/0f397182-61b3-4cf7-8962-89583f3715f7/ec66aa88-73d1-4cb3-8c65-c3cdabf1bdde/aunty-momos.jpeg",
-  "original_filename": "aunty-momos.jpeg",
-  "size": 57748,
-  "content_type": "image/jpeg",
-  "created_at": "2026-07-31T16:29:05Z"
+    "version":  1,
+    "asset_id":  "ec66aa88-73d1-4cb3-8c65-c3cdabf1bdde",
+    "project_id":  "0f397182-61b3-4cf7-8962-89583f3715f7",
+    "url":  "/assets/aunty-momos.jpeg",
+    "r2_key":  "a/v1/0f397182-61b3-4cf7-8962-89583f3715f7/ec66aa88-73d1-4cb3-8c65-c3cdabf1bdde/aunty-momos.jpeg",
+    "original_filename":  "aunty-momos.jpeg",
+    "size":  57748,
+    "content_type":  "image/jpeg",
+    "created_at":  "2026-07-31T16:29:05Z"
 }
